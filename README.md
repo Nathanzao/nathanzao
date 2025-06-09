@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1381547093214367807/1381564400112242708/Video-sem-titulo.gif?ex=6847f99d&is=6846a81d&hm=d3d2c2637fe38be5a9d3aa55caeacc14413eb60f98ec4e167bfd50ac6e0fa681&" alt="Banner do Perfil"/>
+  <img src="https://cdn.discordapp.com/attachments/1381547093214367807/1381565194777526433/Video-sem-titulo.gif?ex=6847fa5a&is=6846a8da&hm=f9b5a81c6c8b80125b77c922313c58aebb33d9b315bcd292a57fa97893fe4d13&" alt="Banner do Perfil"/>
   
 </p>
 
