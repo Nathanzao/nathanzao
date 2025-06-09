@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1381547093214367807/1381547132808597564/github-header-image.png?ex=6847e988&is=68469808&hm=73da8c46be459409f7eae2857406ddc93aa0a4102de448ffad9bad752bf7e9f3&" alt="Banner do Perfil"/>
+  <img src="https://nathanzao.github.io/nathanzao/workflow/meu-banner.html" alt="Banner do Perfil"/>
+  
 </p>
 
 <h1 align="center">Nathan aqui, 😎👍</h1>
