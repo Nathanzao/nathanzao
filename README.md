@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://nathanzao.github.io/nathanzao/workflow/meu-banner.html" alt="Banner do Perfil"/>
+  <img src="https://cdn.discordapp.com/attachments/1381547093214367807/1381564400112242708/Video-sem-titulo.gif?ex=6847f99d&is=6846a81d&hm=d3d2c2637fe38be5a9d3aa55caeacc14413eb60f98ec4e167bfd50ac6e0fa681&" alt="Banner do Perfil"/>
   
 </p>
 
