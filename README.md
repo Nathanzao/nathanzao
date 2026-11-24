@@ -3,24 +3,60 @@
   
 </p>
 
-<h1 align="center">Nathan aqui, 😎👍</h1>
-
-<h3 align="center">Estudante de Ciência da Computação & Fã de FPGA e Arquitetura de Computadores</h3>
+<h3 align="center">Estudante de Ciência da Computação</h3>
 
 <p align="center">
   <a href="mailto:nathansilveira2104@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="www.linkedin.com/in/nathan-alves-da-cruz-silveira-16001a304" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/nathan-alves-silveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://discord.com/users/422247713116127235" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
----
+<hr/>
 
+<ul>
+  <li>🎓 Estou no <strong>3º ano de Ciência da Computação na UNESP</strong>.</li>
+  <li>🔭 No meu TCC, estudo visão computacional com Vision Transformers.</li>
+</ul>
 
-- 🔭 **Cursando 2º ano da faculdade.**
-- ☕ **Atualmente aprendendo Java.**
-- 👯 **Estudando Ciência da Computação na UNESP.**
+<h3 align="left">O que estou investigando no TCC</h3>
 
----
+<p>Um bloco de um modelo treinado com texto pode ajudar outro modelo a reconhecer imagens? Essa é a pergunta que estou explorando com um <strong>Vision Transformer (ViT)</strong> e um bloco do <strong>LLaMA</strong>.</p>
+
+<h3 align="left">Mapa dos meus repositórios</h3>
+
+<h4>Projetos e aplicações</h4>
+
+<ul>
+  <li><a href="https://github.com/Nathanzao/CalculadoraLazarus">Calculadora Lazarus</a> — Calculadora desenvolvida no Lazarus.</li>
+  <li><a href="https://github.com/Nathanzao/Trabalho-POO">Trabalho de POO</a> — Projeto da disciplina de Programação Orientada a Objetos.</li>
+</ul>
+
+<h4>Algoritmos e programação</h4>
+
+<ul>
+  <li><a href="https://github.com/Nathanzao/ATP-I">Algoritmos e Técnicas de Programação I</a> — Listas do primeiro semestre, com enunciados e soluções.</li>
+  <li><a href="https://github.com/Nathanzao/ATP-II">Algoritmos e Técnicas de Programação II</a> — Continuação das listas no segundo semestre.</li>
+  <li><a href="https://github.com/Nathanzao/ED-I">Estruturas de Dados I</a> — Material da primeira disciplina de estruturas de dados.</li>
+  <li><a href="https://github.com/Nathanzao/ED-II">Estruturas de Dados II</a> — Continuação dos estudos de estruturas de dados.</li>
+  <li><a href="https://github.com/Nathanzao/POO">Programação Orientada a Objetos</a> — Exercícios da disciplina.</li>
+  <li><a href="https://github.com/Nathanzao/Linguagens-de-Programa-o">Linguagens de Programação</a> — Trabalhos da disciplina de linguagens de programação.</li>
+</ul>
+
+<h4>Hardware e redes</h4>
+
+<ul>
+  <li><a href="https://github.com/Nathanzao/Circuitos-Digitais">Circuitos Digitais</a> — Circuitos em VHDL para FPGA, usando o Quartus II.</li>
+  <li><a href="https://github.com/Nathanzao/Redes">Redes</a> — Material de redes de computadores.</li>
+</ul>
+
+<h4>Matemática</h4>
+
+<ul>
+  <li><a href="https://github.com/Nathanzao/Algebra-Linear">Álgebra Linear</a> — Material da disciplina de álgebra linear.</li>
+  <li><a href="https://github.com/Nathanzao/Numerical-Analysis">Análise Numérica</a> — Repositório de métodos numéricos.</li>
+</ul>
+
+<hr/>
 
 <h3 align="left">Curto usar:</h3>
 <p align="left">
@@ -74,10 +110,10 @@
   </a>
 </p>
 
----
+<hr/>
 
 <h3 align="left">📊 Minhas Estatísticas no GitHub:</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathanzao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanzao&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Nathanzao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanzao&layout=compact&langs_count=7&theme=dracula"/>
 </p>
