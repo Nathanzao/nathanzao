@@ -14,8 +14,8 @@
 <hr/>
 
 <ul>
-  <li>🎓 Estou no <strong>3º ano de Ciência da Computação na UNESP</strong>.</li>
-  <li>🔭 No meu TCC, estudo visão computacional com Vision Transformers.</li>
+  <li>Estou no <strong>3º ano de Ciência da Computação na UNESP</strong>.</li>
+  <li>No meu TCC, estudo visão computacional com Vision Transformers.</li>
 </ul>
 
 <h3 align="left">O que estou investigando no TCC</h3>
